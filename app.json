@@ -1,0 +1,9 @@
+{
+  "name": "mbkmadmax",
+  "description": "Jarvis Ai kin",
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
